@@ -10,7 +10,7 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 
 
-# -----------------------------
+# ----------------------------
 # Page config
 # -----------------------------
 st.set_page_config(
